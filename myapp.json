@@ -1,0 +1,7 @@
+{
+  "name": "sampleapp",
+  "displayName": "sampleapp",
+  "expo": {
+    "platforms": ["web"]
+  }
+}
